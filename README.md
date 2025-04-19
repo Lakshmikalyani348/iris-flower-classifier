@@ -33,11 +33,9 @@ pip install pandas scikit-learn
 python iris flower classification.py
 
 ## Output Example
-
-1. Model accuracy
-2. Predicted class (e.g., Iris-setosa)
-3. Classifier used
-4.Warnings if values are out of range
+Predicted Iris flower class is: Iris-setosa
+Classifier used: RandomForestClassifier
+Prediction confidence: 95.67%
 
 ## Author
 Lakshmi Kalyani - B.Tech CSE (AI)
