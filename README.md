@@ -1,4 +1,4 @@
-# iris-flower-classifier
+
 # Iris Flower Classifier using Random Forest
 
 This is a simple machine learning project built using Python and Scikit-learn. The model is trained on the popular Iris flower dataset to classify iris flowers into three species: *Setosa, **Versicolor, and **Virginica* based on their physical measurements.
@@ -41,4 +41,5 @@ python iris flower classification.py
 
 ## Author
 Lakshmi Kalyani - B.Tech CSE (AI)
+This project was created as part of my learning journey in machine learning and artificial intelligence.
 
