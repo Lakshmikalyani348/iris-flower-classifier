@@ -30,7 +30,7 @@ bash
 pip install pandas scikit-learn
 
 ## Run the script
-python iris flower classification.py
+python a.py
 
 ## Output Example
 Predicted Iris flower class is: Iris-setosa
