@@ -38,6 +38,6 @@ Classifier used: RandomForestClassifier
 Prediction confidence: 95.67%
 
 ## Author
-Lakshmi Kalyani - B.Tech CSE (AI)
+Lakshmi Kalyani - B.Tech CSE-AI
 This project was created as part of my learning journey in machine learning and artificial intelligence.
 
